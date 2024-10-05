@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=lhphongdev&label=Profile%20views&color=0e75b6&style=flat" alt="lechiluan" />
+
 <!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
